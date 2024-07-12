@@ -1,0 +1,100 @@
+------------------------------------
+Matrix size:            1500x1500
+Maximum iterations:     20000
+Convergence threshold:  0.000100
+------------------------------------
+Solution error = 0.074890
+Iterations     = 4224
+Total runtime  = 29.020027 seconds
+Solver runtime = 28.910972 seconds
+------------------------------------
+------------------------------------
+Matrix size:            1500x1500
+Maximum iterations:     20000
+Convergence threshold:  0.000100
+------------------------------------
+Solution error = 0.074972
+Iterations     = 4107
+Total runtime  = 27.239024 seconds
+Solver runtime = 26.791606 seconds
+------------------------------------
+------------------------------------
+Matrix size:            1500x1500
+Maximum iterations:     20000
+Convergence threshold:  0.000100
+------------------------------------
+Solution error = 0.074947
+Iterations     = 4207
+Total runtime  = 27.667410 seconds
+Solver runtime = 27.574307 seconds
+------------------------------------
+------------------------------------
+Matrix size:            1500x1500
+Maximum iterations:     20000
+Convergence threshold:  0.000100
+------------------------------------
+Solution error = 0.074939
+Iterations     = 4162
+Total runtime  = 27.267401 seconds
+Solver runtime = 27.177822 seconds
+------------------------------------
+------------------------------------
+Matrix size:            1500x1500
+Maximum iterations:     20000
+Convergence threshold:  0.000100
+------------------------------------
+Solution error = 0.074860
+Iterations     = 4210
+Total runtime  = 27.885012 seconds
+Solver runtime = 27.409245 seconds
+------------------------------------
+------------------------------------
+Matrix size:            1500x1500
+Maximum iterations:     20000
+Convergence threshold:  0.000100
+------------------------------------
+Solution error = 0.074878
+Iterations     = 4086
+Total runtime  = 27.063250 seconds
+Solver runtime = 26.588682 seconds
+------------------------------------
+------------------------------------
+Matrix size:            1500x1500
+Maximum iterations:     20000
+Convergence threshold:  0.000100
+------------------------------------
+Solution error = 0.075030
+Iterations     = 4155
+Total runtime  = 27.477820 seconds
+Solver runtime = 27.334737 seconds
+------------------------------------
+------------------------------------
+Matrix size:            1500x1500
+Maximum iterations:     20000
+Convergence threshold:  0.000100
+------------------------------------
+Solution error = 0.074983
+Iterations     = 4193
+Total runtime  = 28.706965 seconds
+Solver runtime = 28.353454 seconds
+------------------------------------
+------------------------------------
+Matrix size:            1500x1500
+Maximum iterations:     20000
+Convergence threshold:  0.000100
+------------------------------------
+Solution error = 0.075045
+Iterations     = 4091
+Total runtime  = 26.344187 seconds
+Solver runtime = 26.242004 seconds
+------------------------------------
+------------------------------------
+Matrix size:            1500x1500
+Maximum iterations:     20000
+Convergence threshold:  0.000100
+------------------------------------
+Solution error = 0.075042
+Iterations     = 4249
+Total runtime  = 28.732719 seconds
+Solver runtime = 28.642105 seconds
+------------------------------------

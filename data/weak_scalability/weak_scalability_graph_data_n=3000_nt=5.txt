@@ -1,0 +1,100 @@
+------------------------------------
+Matrix size:            3000x3000
+Maximum iterations:     20000
+Convergence threshold:  0.000100
+------------------------------------
+Solution error = 0.150033
+Iterations     = 7741
+Total runtime  = 103.245371 seconds
+Solver runtime = 102.089357 seconds
+------------------------------------
+------------------------------------
+Matrix size:            3000x3000
+Maximum iterations:     20000
+Convergence threshold:  0.000100
+------------------------------------
+Solution error = 0.149999
+Iterations     = 7759
+Total runtime  = 103.070856 seconds
+Solver runtime = 102.349543 seconds
+------------------------------------
+------------------------------------
+Matrix size:            3000x3000
+Maximum iterations:     20000
+Convergence threshold:  0.000100
+------------------------------------
+Solution error = 0.149898
+Iterations     = 7840
+Total runtime  = 102.919130 seconds
+Solver runtime = 101.885822 seconds
+------------------------------------
+------------------------------------
+Matrix size:            3000x3000
+Maximum iterations:     20000
+Convergence threshold:  0.000100
+------------------------------------
+Solution error = 0.149980
+Iterations     = 7965
+Total runtime  = 105.507728 seconds
+Solver runtime = 104.352479 seconds
+------------------------------------
+------------------------------------
+Matrix size:            3000x3000
+Maximum iterations:     20000
+Convergence threshold:  0.000100
+------------------------------------
+Solution error = 0.149957
+Iterations     = 7825
+Total runtime  = 104.411363 seconds
+Solver runtime = 103.315490 seconds
+------------------------------------
+------------------------------------
+Matrix size:            3000x3000
+Maximum iterations:     20000
+Convergence threshold:  0.000100
+------------------------------------
+Solution error = 0.149971
+Iterations     = 7911
+Total runtime  = 105.853053 seconds
+Solver runtime = 104.764834 seconds
+------------------------------------
+------------------------------------
+Matrix size:            3000x3000
+Maximum iterations:     20000
+Convergence threshold:  0.000100
+------------------------------------
+Solution error = 0.150023
+Iterations     = 7797
+Total runtime  = 104.762910 seconds
+Solver runtime = 103.766139 seconds
+------------------------------------
+------------------------------------
+Matrix size:            3000x3000
+Maximum iterations:     20000
+Convergence threshold:  0.000100
+------------------------------------
+Solution error = 0.149997
+Iterations     = 7731
+Total runtime  = 102.748794 seconds
+Solver runtime = 101.784026 seconds
+------------------------------------
+------------------------------------
+Matrix size:            3000x3000
+Maximum iterations:     20000
+Convergence threshold:  0.000100
+------------------------------------
+Solution error = 0.149856
+Iterations     = 7726
+Total runtime  = 102.746520 seconds
+Solver runtime = 101.795781 seconds
+------------------------------------
+------------------------------------
+Matrix size:            3000x3000
+Maximum iterations:     20000
+Convergence threshold:  0.000100
+------------------------------------
+Solution error = 0.149949
+Iterations     = 8000
+Total runtime  = 105.791058 seconds
+Solver runtime = 104.815283 seconds
+------------------------------------
